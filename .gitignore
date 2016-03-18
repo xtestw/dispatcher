@@ -1,0 +1,11 @@
+config.ini
+/log/*
+/results/*
+/cha_results/*
+/raw_files/*
+/cha_raw_files/*
+*.bott
+*.log
+nohup.out
+*.o
+obj

@@ -1,0 +1,21 @@
+# Database info
+database_ip             =   127.0.0.1
+database_port           =   3306
+database_user           =   user
+database_password       =   pwd
+database_table          =   cquoj
+
+# Bind port number
+port_listen             =   5907
+
+# Secret connect strings
+judge_connect_string    =   yourstring
+submit_string           =   yourstring
+rejudge_string          =   yourstring
+error_rejudge_string    =   yourstring
+challenge_string        =   yourstring
+pretest_string          =   yourstring
+test_all_string         =   yourstring
+
+# Local judger name
+local_identifier        =   CQU
